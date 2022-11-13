@@ -32,25 +32,22 @@ const mainFeaturedPost = {
 const featuredPosts = [
   {
     title: 'Why I wanted to become a developer',
-    date: '20 Aug',
     description:
-      'The reason I chose to become a developer was because I loved being able to see my work and how it could make a difference. I want to be part of projects and proudly say that I helped contribute to it. There is so many possibilities , and im driven to graspthese opportunities and innovative. ' ,
+      'The reason I chose to become a developer was because I loved being able to see my work and how it could make a difference. I want to be part of projects and proudly say that I helped contribute to it. There is so many possibilities, and im driven to grasp these opportunities and innovative.' ,
       image: require('../../Images/picture.jpg'),
     imageLabel: 'Image Text',
   },
   {
     title: 'Strengths ',
-    date: 'Nov 11',
     description:
-      'Hard-Working, Resilient, Persistent, Team Player, Putting in the hoursto be successfull,',
+      'Hard-Working, Resilient, Persistent, Team Player, Putting in the hours to be successfull.',
     image: require('../../Images/Picture2.jpg'),
     imageLabel: 'Image Text',
   },
   {
     title: 'More About Myself ',
-    date: 'Nov 17',
     description:
-      'I am a 24 year old, I enjoy watching series, playing video games,',
+      'I am a 24 year old, I enjoy watching series, playing video games.',
     image: 'https://source.unsplash.com/random',
     imageLabel: 'Image Text',
   },
